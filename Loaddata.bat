@@ -1,0 +1,1 @@
+E:\xampp\mysql\bin\mysql -u root profile < E:\Scripts\insert.sql
